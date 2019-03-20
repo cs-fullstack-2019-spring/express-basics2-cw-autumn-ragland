@@ -17,4 +17,14 @@ router.get('/contact/:number/:member', (request, response) => {
     response.send('Thanks ' + request.params.member + "! We will contact you shortly at " + request.params.number)
 });
 
+//charge balance post request
+router.post('/chargebalance', (request, response) => {
+    response.send('post request')
+});
+
+//pay balance post request
+router.post('/paybalance', (request, response) => {
+    response.send('post request')
+});
+
 module.exports = router;

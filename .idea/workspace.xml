@@ -78,9 +78,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="800" />
-    <option name="y" value="25" />
-    <option name="width" value="800" />
-    <option name="height" value="822" />
+    <option name="y" value="27" />
+    <option name="width" value="790" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -147,7 +147,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="25" width="800" height="822" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
