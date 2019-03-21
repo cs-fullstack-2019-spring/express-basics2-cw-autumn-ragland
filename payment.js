@@ -1,5 +1,5 @@
-//create unused functions
-modules.export  = {
+//modules imported in member routes
+module.exports  = {
     getBalance : () => {
         return '$500'
     },

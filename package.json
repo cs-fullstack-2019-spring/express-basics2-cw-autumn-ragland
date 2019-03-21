@@ -2,7 +2,7 @@
   "name": "express-basics2-cw-autumn-ragland",
   "version": "1.0.0",
   "description": "### Create an Express web application.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
